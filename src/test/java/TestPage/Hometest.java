@@ -15,7 +15,7 @@ public class Hometest {
 		
 	}
 @Test
-public void verifyWomenTag() {
+public void verifyWomenTagss() {
 	Assert.assertTrue(bp.elementFound(hp.getWomenTag()),"Failed to display");
 }
 @Test
